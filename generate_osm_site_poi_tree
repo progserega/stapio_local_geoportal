@@ -1,0 +1,2 @@
+#!/bin/bash
+python stapio_poi.py createTree
